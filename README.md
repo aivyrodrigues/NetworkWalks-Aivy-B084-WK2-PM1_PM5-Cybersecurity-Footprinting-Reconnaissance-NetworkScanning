@@ -5,8 +5,7 @@
 
 | Field | Detail |
 |---|---|
-| **Pentester Name (Cybersecurity Professional)** | **Emmanuel Bafi** |
-| **Program/Batch** | B082-Networkwalks |
+| **Program/Batch** | B084-Networkwalks |
 | **Date** | 13 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
 | **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
